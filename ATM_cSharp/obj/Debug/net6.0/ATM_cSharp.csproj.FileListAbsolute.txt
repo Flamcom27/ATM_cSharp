@@ -1,0 +1,15 @@
+C:\Users\test1\source\repos\ATM_cSharp\ATM_cSharp\bin\Debug\net6.0\ATM_cSharp.exe
+C:\Users\test1\source\repos\ATM_cSharp\ATM_cSharp\bin\Debug\net6.0\ATM_cSharp.deps.json
+C:\Users\test1\source\repos\ATM_cSharp\ATM_cSharp\bin\Debug\net6.0\ATM_cSharp.runtimeconfig.json
+C:\Users\test1\source\repos\ATM_cSharp\ATM_cSharp\bin\Debug\net6.0\ATM_cSharp.dll
+C:\Users\test1\source\repos\ATM_cSharp\ATM_cSharp\bin\Debug\net6.0\ref\ATM_cSharp.dll
+C:\Users\test1\source\repos\ATM_cSharp\ATM_cSharp\bin\Debug\net6.0\ATM_cSharp.pdb
+C:\Users\test1\source\repos\ATM_cSharp\ATM_cSharp\obj\Debug\net6.0\ATM_cSharp.csproj.AssemblyReference.cache
+C:\Users\test1\source\repos\ATM_cSharp\ATM_cSharp\obj\Debug\net6.0\ATM_cSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\test1\source\repos\ATM_cSharp\ATM_cSharp\obj\Debug\net6.0\ATM_cSharp.AssemblyInfoInputs.cache
+C:\Users\test1\source\repos\ATM_cSharp\ATM_cSharp\obj\Debug\net6.0\ATM_cSharp.AssemblyInfo.cs
+C:\Users\test1\source\repos\ATM_cSharp\ATM_cSharp\obj\Debug\net6.0\ATM_cSharp.csproj.CoreCompileInputs.cache
+C:\Users\test1\source\repos\ATM_cSharp\ATM_cSharp\obj\Debug\net6.0\ATM_cSharp.dll
+C:\Users\test1\source\repos\ATM_cSharp\ATM_cSharp\obj\Debug\net6.0\ref\ATM_cSharp.dll
+C:\Users\test1\source\repos\ATM_cSharp\ATM_cSharp\obj\Debug\net6.0\ATM_cSharp.pdb
+C:\Users\test1\source\repos\ATM_cSharp\ATM_cSharp\obj\Debug\net6.0\ATM_cSharp.genruntimeconfig.cache
