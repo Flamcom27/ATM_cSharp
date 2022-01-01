@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "61f1a777-19f9-4f8e-a1f2-856827792fb5": {
+      "ProjectGuid": "61f1a777-19f9-4f8e-a1f2-856827792fb5",
+      "DisplayName": "ATM_cSharp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
